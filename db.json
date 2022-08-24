@@ -1,0 +1,22 @@
+{
+  "offices": [
+    {
+      "title": "Headquater",
+      "address": "1356 meadowlands drive",
+      "fullname": "Jenish sha",
+      "job": "software developer",
+      "email": "shahjenish56@gmail.com",
+      "phone": "343-5732122",
+      "id": 13
+    },
+    {
+      "title": "Headquater 1",
+      "address": "1356 meadowlands drive",
+      "fullname": "jenishshah",
+      "job": "software developer",
+      "email": "shahjenish56@gmail.com",
+      "phone": "343-5732122",
+      "id": 14
+    }
+  ]
+}
